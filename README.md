@@ -1,5 +1,12 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:7C3AED,100:06B6D4&height=200&section=header&text=Subodh%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Entrepreneur%20%7C%20Developer%20%7C%20Product%20Builder&descAlignY=55&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+RivoRoute+Logistics;Developing+MitraConnect;Exploring+MINTO+Quick+Commerce" alt="Typing animation"/>
+
+</div>
+<div align="center">
+
 # 👋 Hi, I'm Subodh Singh
 
 ### 🚀 Entrepreneur | Developer | Product Builder
@@ -66,3 +73,47 @@ A quick-commerce concept focused on convenient access to everyday essentials.
 **Building products with purpose.** 🚀
 
 </div>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subodht95-tech&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subodh95-tech&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+---
+
+## 🚀 Projects I'm Building
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🚚 RivoRoute
+
+Courier booking and delivery solutions.
+
+[Visit Website](https://rivoroute.vercel.app/)
+
+</td>
+<td width="33%" valign="top">
+
+### 🏘️ MitraConnect
+
+**Connect Locally. Grow Together.**
+
+Building a platform for society communities.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛒 MINTO
+
+A quick-commerce concept for everyday essentials.
+
+</td>
+</tr>
+</table>
